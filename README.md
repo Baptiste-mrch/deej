@@ -6,6 +6,7 @@ I've added 4 button to control the track, and I create a proper 3D enclosure. Al
 
 [Imgur album](https://imgur.com/a/JhUD4Wn)
 ![Main](modification/DEEJ_Main~1.jpg)
+![Inside](DEEJ_inside.gif)
 
 # deej
 
